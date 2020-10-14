@@ -24,4 +24,4 @@
 
 - Run in docker
 
-    `$ docker run --name web_server -d -p 8000:8000 $CI_DOCKER_IMAGE_OUTPUT
+    `$ docker run --name web_server -d -p 8000:8000 $CI_DOCKER_IMAGE_OUTPUT`
